@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @derrick-code11
+- 👋 Hi, I’m Derrick Agyemang Duah.
 - 👀 I’m interested in Machine Learning, Data Science, Frontend and Backend Web Development, and Robotics.
 
 - 🌱 I’m currently learning HTML, CSS, Bootstrap, and JavaScript and also polishing my skills in Python programming.
