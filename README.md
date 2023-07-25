@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Derrick Agyemang Duah.
 - 👀 I’m interested in Machine Learning, Data Science, Frontend and Backend Web Development, and Robotics.
 
-- 🌱 I’m currently learning HTML, CSS, Bootstrap, and JavaScript and also polishing my skills in Python programming.
+- 🌱 I’m currently learning JavaScript and Javascript frameworks like Node and React and also polishing my skills in Python programming.
 - 💞️ I’m looking to collaborate on anything relating to my interests 👨‍💻🤖📊📈
 - 📫 How to reach me: www.linkedin.com/in/derrick-agyemang-duah-2400911bb || 
 
