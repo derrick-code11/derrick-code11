@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning JavaScript and Javascript frameworks like Node and React and also polishing my skills in Python programming.
 - 💞️ I’m looking to collaborate on anything relating to my interests 👨‍💻🤖📊📈
-- 📫 How to reach me: www.linkedin.com/in/derrick-agyemang-duah-2400911bb || 
+- 📫 How to reach me: www.linkedin.com/in/derrick-agyemang-duah || 
 
     agyemangderrick777@gmail.com
 
